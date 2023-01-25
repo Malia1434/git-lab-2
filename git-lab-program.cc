@@ -13,6 +13,6 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-    cout<< "Hello Git!! I'm tired" << enum;
+cout << "Hello Git!!" << endl;
     return 0;
 }// main
